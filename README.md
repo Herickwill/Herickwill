@@ -11,6 +11,13 @@ Sou um Desenvolvedor Java Júnior e um curioso em Python. Atualmente sou estagi�
 <br>
 <i>Generation - Desenvolvedor Java Júnior (Concluído) </i> :heavy_check_mark:
 
+
+
+
+### Minhas skills :computer:
+  <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
 ### Me encontre em outras redes sociais
 <a href="https://www.linkedin.com/in/herick-willians/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
