@@ -12,7 +12,6 @@ Sou um Desenvolvedor Java Júnior e um curioso em Python. Atualmente sou estagi�
 <i>Generation - Desenvolvedor Java Júnior (Concluído) </i> :heavy_check_mark:
 
 ### Me encontre em outras redes sociais
-
 <a href="https://www.linkedin.com/in/herick-willians/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
