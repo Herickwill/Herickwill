@@ -7,5 +7,5 @@ Sou um Desenvolvedor Java Júnior e um curioso em Python. Atualmente sou estagi�
 
 
 ### Minhas formações 
-
-<b>Universidade Federal do ABC - Ciência e Tecnologia (Cursando) </b>
+<i>Universidade Federal do ABC - Ciência e Tecnologia (Cursando) </i> :construction:
+<i>Generation - Desenvolvedor Java Júnior (Concluído) </i> :heavy_check_mark:
